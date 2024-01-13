@@ -124,11 +124,11 @@ $body-bg: $white;
 
 $primary: #6fa939; // Couleur dominante. Elle peut s'appliquer à la fois à des surfaces ou à des contenus.
 $primary-accent: #4e920f; // Modifieur de couleur dominante (survol, bordure)
-$on-primary: $white; // Contenus (texte, lien, icône) affichés par-dessus une couche $primary
+// $on-primary: $white; // Contenus (texte, lien, icône) affichés par-dessus une couche $primary
 
 $secondary: #008cba; // Couleur d'accentuation. Elle s'applique généralement aux liens, mais peut s'appliquer à la fois à des surfaces ou à des contenus.
 $secondary-accent: #027da7; // Modifieur de couleur d'accentuation (survol, bordure)
-$on-secondary: $white; // Contenus affichés par-dessus une couche $secondary
+// $on-secondary: $white; // Contenus affichés par-dessus une couche $secondary
 
 // Variables couleurs statuts
 
