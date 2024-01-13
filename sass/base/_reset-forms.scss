@@ -79,7 +79,7 @@ input {
   overflow: visible;
 }
 
-/* 
+/*
  * Remove the inheritance of text transform in Firefox
  */
 
@@ -148,77 +148,77 @@ template {
   display: none;
 }
 
-/* ----------------------------- */
-/* Form oddities                 */
-/* ----------------------------- */
+// /* ----------------------------- */
+// /* Form oddities                 */
+// /* ----------------------------- */
 
-/*
- * 1. Correct the odd appearance in Chrome, Edge, and Safari.
- * 2. Correct the outline style in Safari.
- */
+// /*
+//  * 1. Correct the odd appearance in Chrome, Edge, and Safari.
+//  * 2. Correct the outline style in Safari.
+//  */
 
-[type="search"] {
-  -webkit-appearance: textfield; /* 1 */
-  outline-offset: -2px; /* 2 */
-}
+// [type="search"] {
+//   -webkit-appearance: textfield; /* 1 */
+//   outline-offset: -2px; /* 2 */
+// }
 
-/*
- * Correct the cursor style of increment and decrement buttons in Safari.
- */
+// /*
+//  * Correct the cursor style of increment and decrement buttons in Safari.
+//  */
 
-::-webkit-inner-spin-button,
-::-webkit-outer-spin-button {
-  height: auto;
-}
+// ::-webkit-inner-spin-button,
+// ::-webkit-outer-spin-button {
+//   height: auto;
+// }
 
-/*
- * Correct the text style of placeholders in Chrome, Edge, and Safari.
- */
+// /*
+//  * Correct the text style of placeholders in Chrome, Edge, and Safari.
+//  */
 
-::-webkit-input-placeholder {
-  color: inherit;
-  opacity: 0.54;
-}
+// ::-webkit-input-placeholder {
+//   color: inherit;
+//   opacity: 0.54;
+// }
 
-/*
- * Remove the inner padding in Chrome, Edge, and Safari on macOS.
- */
+// /*
+//  * Remove the inner padding in Chrome, Edge, and Safari on macOS.
+//  */
 
-::-webkit-search-decoration {
-  -webkit-appearance: none;
-}
+// ::-webkit-search-decoration {
+//   -webkit-appearance: none;
+// }
 
-/*
- * 1. Correct the inability to style upload buttons in iOS and Safari.
- * 2. Change font properties to `inherit` in Safari.
- */
+// /*
+//  * 1. Correct the inability to style upload buttons in iOS and Safari.
+//  * 2. Change font properties to `inherit` in Safari.
+//  */
 
-::-webkit-file-upload-button {
-  -webkit-appearance: button; /* 1 */
-  font: inherit; /* 2 */
-}
+// ::-webkit-file-upload-button {
+//   -webkit-appearance: button; /* 1 */
+//   font: inherit; /* 2 */
+// }
 
-/*
- * Remove the inner border and padding of focus outlines in Firefox.
- */
+// /*
+//  * Remove the inner border and padding of focus outlines in Firefox.
+//  */
 
-::-moz-focus-inner {
-  border-style: none;
-  padding: 0;
-}
+// ::-moz-focus-inner {
+//   border-style: none;
+//   padding: 0;
+// }
 
-/*
- * Restore the focus outline styles unset by the previous rule in Firefox.
- */
+// /*
+//  * Restore the focus outline styles unset by the previous rule in Firefox.
+//  */
 
-:-moz-focusring {
-  outline: 1px dotted ButtonText;
-}
+// :-moz-focusring {
+//   outline: 1px dotted ButtonText;
+// }
 
-/*
- * Remove the additional :invalid styles in Firefox.
- */
+// /*
+//  * Remove the additional :invalid styles in Firefox.
+//  */
 
-:-moz-ui-invalid {
-  box-shadow: none;
-}
+// :-moz-ui-invalid {
+//   box-shadow: none;
+// }
