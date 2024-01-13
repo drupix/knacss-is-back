@@ -1,0 +1,29 @@
+{
+  "name": "drupix/knacss-is-back",
+  "type": "backdrop-custom-theme",
+  "description": "Reset and supercharge CSS style sheet",
+  "keywords": [
+    "css",
+    "css-reset",
+    "minimal",
+    "scss-framework"
+  ],
+  "homepage": "https://github.com/drupix/knacss-is-back",
+  "authors": [
+    {
+      "name": "Alsacreations",
+      "homepage": "https://github.com/alsacreations/KNACSS",
+      "role": "Original developer"
+    },
+    {
+      "name": "Enzo Di Resta (aka drupix)",
+      "email": "enzo@drupal-solutions.ch",
+      "homepage": "https://drupal-solutions.ch",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/drupix/knacss-is-back/issues/"
+  },
+  "license": "WTFPL"
+}
